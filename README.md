@@ -18,4 +18,4 @@ Predict if a patient will live or dies based on the parameters using ML
  * Serialization
  * Production with Flask
 # Output screenshot
-<img src="https://github.com/Shyam-AI/mortality_predictor_ML_app/blob/master/output_screenshot.png", width=450px, width = auto>
+<img src="https://github.com/Shyam-AI/mortality_predictor_ML_app/blob/master/output_screenshot.png" width=450px width = auto>
